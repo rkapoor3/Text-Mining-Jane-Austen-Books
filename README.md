@@ -18,7 +18,7 @@ Package contains full texts for Jane Austen's 6 completed novels, ready for text
 
 URL: https://github.com/juliasilge/janeaustenr
 
-
+## Usage:
 ## austen_books 
 
 Tidy data frame of Jane Austen’s 6 completed, published novels
