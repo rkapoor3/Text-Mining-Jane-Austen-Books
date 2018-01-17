@@ -14,7 +14,7 @@ Jane Austen (16 December 1775 – 18 July 1817) was an English novelist known pr
 
 # JaneAustenR Package
 
-Package contains full texts for Jane Austen's 6 completed novels, ready for text analysis. These novels are ``Sense and Sensibility'', ``Pride and Prejudice'', ``Mansfield Park'', ``Emma'', ``Northanger Abbey'', and ``Persuasion''.
+Package contains full texts for Jane Austen's 6 completed novels, ready for text analysis. These novels are 'Sense and Sensibility', 'Pride and Prejudice', 'Mansfield Park', 'Emma', 'Northanger Abbey', and 'Persuasion'.
 
 URL: https://github.com/juliasilge/janeaustenr
 
